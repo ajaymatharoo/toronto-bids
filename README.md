@@ -2,6 +2,11 @@
 
 The Toronto Bids Project is an initiative aimed at promoting transparency and accountability in the procurement process of the Toronto City Council. The project involves scraping request for proposal (RFP) documents from the Toronto City Council's procurement tool, SAP Ariba, and making the information publicly accessible through a database. The goal is to make the procurement process more accessible to the public even after the due date of the RFPs has passed.
 
+# Table of Contents
+1. Project Outline
+2. Getting Started
+3. How to Contribute
+
 # Project Outline
 
 The project consists of the following main stages:
@@ -11,6 +16,9 @@ The project consists of the following main stages:
 The first stage of the project involves scraping RFP information from the Toronto City Council's procurement tool, SAP Ariba. A custom-built scraping tool has been developed to crawl the SAP Ariba website and extract relevant information about each RFP, including structured metadata and PDF documents containing detailed information.
 
 In addition, the city posts some metadata about the RFPs through the Open Data Portal, and a separate scraper has been developed to capture this information.
+
+## Data Sources
+
 
 ## Ingestion
 
