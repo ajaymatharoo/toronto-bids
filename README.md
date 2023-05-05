@@ -17,8 +17,10 @@ The first stage of the project involves scraping RFP information from the Toront
 
 In addition, the city posts some metadata about the RFPs through the Open Data Portal, and a separate scraper has been developed to capture this information.
 
-## Data Sources
-
+### Data Sources
+Get more familiar with the data sources
+* SAP Ariba
+* Open Data Portal
 
 ## Ingestion
 
