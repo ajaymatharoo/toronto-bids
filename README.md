@@ -10,9 +10,9 @@ The Toronto Bids Project is an initiative aimed at promoting transparency and ac
 # 1. Project Outline
 
 The project consists of the following main stages:
-1. Scraping
-2. Ingestion
-3. Making the data public
+a. Scraping
+b. Ingestion
+c. Making the data public
 
 ## Scraping
 
