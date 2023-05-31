@@ -14,7 +14,7 @@ a. Scraping<br>
 b. Ingestion<br>
 c. Making the data public<br>
 
-## Scraping
+## a. Scraping
 
 The first stage of the project involves scraping RFP information from the Toronto City Council's procurement tool, SAP Ariba. A custom-built scraping tool has been developed to crawl the SAP Ariba website and extract relevant information about each RFP, including structured metadata and PDF documents containing detailed information.
 
@@ -22,15 +22,15 @@ In addition, the city posts some metadata about the RFPs through the Open Data P
 
 [Get more familiar with the Data Sources and udnerstand how the Scraper is working](https://github.com/ajaymatharoo/toronto-bids/tree/main/scrapers)
 
-## Ingestion
+## b. Ingestion
 
 The next stage of the project involves ingestion of the extracted information into a database. The downloaded data consists of structured metadata as well as PDF documents containing additional information. A separate script is used to extract human-readable text from the PDF documents, which is then added to the main table of data.
 
 The extracted information is then stored in an SQL database for easier management and accessibility.
 
-<u>*(Find info on how the ingestion and database processes are being managed)*</u>
+[Find info on how the ingestion and database processes are being managed](https://github.com/ajaymatharoo/toronto-bids/tree/main/app)
 
-## Making the data public
+## c. Making the data public
 
 The final stage of the project involves making the information publicly accessible through a user-friendly website. The goal is to provide an easy-to-use platform for accessing the information contained in the RFPs, even after the due date has passed, promoting transparency and accountability in the procurement process of the Toronto City Council.
 
