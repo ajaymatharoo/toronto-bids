@@ -20,12 +20,7 @@ The first stage of the project involves scraping RFP information from the Toront
 
 In addition, the city posts some metadata about the RFPs through the Open Data Portal, and a separate scraper has been developed to capture this information.
 
-<u>*(Find documentation on how the Scraper is working)*</u>
-
-### Data Sources
-Get more familiar with the data sources and find how to access them
-* SAP Ariba
-* Open Data Portal
+[Get more familiar with the Data Sources and udnerstand how the Scraper is working](https://github.com/ajaymatharoo/toronto-bids/tree/main/scrapers)
 
 ## Ingestion
 
