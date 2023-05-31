@@ -1,14 +1,14 @@
 # Get more familiar with the Data Sources
-* SAP Ariba
-  * Short Description: Who manages it, when is the data wiped of, etc.
-  * How to access it?
+#### SAP Ariba
+ * Short Description: Who manages it, what kind of data is there, when is the data wiped of, etc.
+ * How to access it?
    1. Step 1: Visit xx.com
    2. Step 2: XYZ
-* Open Data Portal
- * Short Description: Who manages it, when is the data wiped of, etc.
+#### Open Data Portal
+ * Short Description: Who manages it, what kind of data is there, when is the data wiped of, etc.
  * How to access it?
-  1. Step 1: Visit xx.com
-  2. Step 2: XYZ
+   1. Step 1: Visit xx.com
+   2. Step 2: XYZ
 
 # Scrapers
 
