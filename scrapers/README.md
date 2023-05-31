@@ -22,7 +22,7 @@ Scrapers are divided in 2 parts
    * bidparse.php: Does XYZ
 
 ---
-Note: Find more issues and projects related here or by doing this...
+Note: Find more issues and projects related to Scrapers here or by doing this...
 
 ---
 
