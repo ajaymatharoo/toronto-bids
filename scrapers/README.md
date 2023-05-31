@@ -1,3 +1,16 @@
+# Get more familiar with the Data Sources
+* SAP Ariba
+** Short Description: Who manages it, when is the data wiped of, etc.
+** How to access it?
+*** Step 1: Visit xx.com
+*** Step 2: XYZ
+
+* Open Data Portal
+** Short Description: Who manages it, when is the data wiped of, etc.
+** How to access it?
+*** Step 1: Visit xx.com
+*** Step 2: XYZ
+
 # Scrapers
 
 Running the main rfp scrapers make sure `username.key` and `password.key` are present with your ariba login credentials, from the root level of the project run:
