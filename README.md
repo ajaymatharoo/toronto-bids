@@ -36,7 +36,7 @@ The final stage of the project involves making the information publicly accessib
 
 This stage also requires making an API to allow programmatic access to the database of RFP information. This API will allow developers to programmatically access and retrieve data from the database for use in their own applications and tools. The API should include endpoints for retrieving information about specific RFPs, searching for RFPs based on certain criteria, and retrieving metadata about the RFPs. The API will be a critical component of the project, allowing the data to be used in a wide range of applications and promoting the goal of transparency and accessibility in the Toronto City Council's procurement process.
 
-<u>*(Find more documentation on the Front End and how to find more ongoign projects around it)*</u>
+[Find more information on the Front End and ongoing projects here](https://github.com/ajaymatharoo/toronto-bids/tree/main/app)
 
 # 2. Getting Started
 
