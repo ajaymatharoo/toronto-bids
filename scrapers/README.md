@@ -4,7 +4,6 @@
   * How to access it?
    * Step 1: Visit xx.com
    * Step 2: XYZ
-
 * Open Data Portal
  * Short Description: Who manages it, when is the data wiped of, etc.
  * How to access it?
