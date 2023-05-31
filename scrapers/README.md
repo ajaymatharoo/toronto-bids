@@ -11,7 +11,22 @@
    2. Step 2: XYZ
 
 # Scrapers
+Scrapers are divided in 2 parts
+1. ariba
+   * ariba_driver.py: Does XYZ
+   * filemanage.py: Does XYZ
+   * google_drive.py: Does XYZ
+   * rfp_scraper.py: Does XYZ   
+3. citysite
+   * bidparse.py: Does XYZ
+   * bidparse.php: Does XYZ
 
+---
+Note: Find more issues and projects related here or by doing this...
+
+---
+
+# Get Started
 Running the main rfp scrapers make sure `username.key` and `password.key` are present with your ariba login credentials, from the root level of the project run:
 ```shell
 # run either the make command
