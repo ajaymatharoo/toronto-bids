@@ -43,7 +43,7 @@ This stage also requires making an API to allow programmatic access to the datab
 
 <u>*(Find more documentation on the Front End and how to find more ongoign projects around it)*</u>
 
-# Getting Started
+# 2. Getting Started
 
 ## OSX
 
@@ -118,6 +118,6 @@ To build the jars:
 make build-uberjar
 ```
 
-# How to Contribute
+# 3. How to Contribute
 Look at issues / Projects.... and xxx 
 tbd...
