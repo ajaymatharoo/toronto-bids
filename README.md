@@ -114,5 +114,8 @@ make build-uberjar
 ```
 
 # 3. How to Contribute
-Look at issues / Projects.... and xxx 
-tbd...
+Thank you for your interest in contributing to Open Toronto Bids! There are multiple ways to contribute, and we appreciate all contributions. In case you have questions, feel free to join our slack group [here](https://join.slack.com/share/enQtNTM1MzgyMDQ4NDU5NS03ZTY5NWU2MWE3ODhiYzUxMTBiNGVmMDA1OWMyYzZmZDFiNjc5MmRmOTVhOTI2OWM0MzA2ZjRiNGEwZDNkMmQ1) (civictechto.slack.com/#proj-torontobids) 
+1. Bug Reports
+2. Bug Fixes
+3. Reporting a Security Issue
+4. Bigger Pieces of work and upcoming projects
